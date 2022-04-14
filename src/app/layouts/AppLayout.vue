@@ -18,7 +18,7 @@ export default {
       () => route.meta,
       async meta => {
         try {
-          const component = await require(`./src/app/layouts/${meta.layout}.vue`)
+          const component = await require(`@/app/layouts/${meta.layout}.vue`)
           layout.value = component.default || AppLayoutDefault
         } catch (e) {
           layout.value = AppLayoutDefault
