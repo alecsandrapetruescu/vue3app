@@ -1,5 +1,6 @@
 # vue3app
-[![build(16.x)](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/build.yml/badge.svg)](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/build.yml)
+[![Build(16.x)](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/build.yml/badge.svg)](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/build.yml)
+[![CodeQL](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/codeql.yml/badge.svg)](https://github.com/alecsandrapetruescu/vue3app/actions/workflows/codeql.yml)
 ## [Vue3 Features](https://medium.com/js-dojo/vue-3-new-features-breaking-changes-a-migration-path-e075a9b3d3d5)
 
 ## Requirements
