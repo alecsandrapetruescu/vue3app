@@ -8,7 +8,9 @@ module.exports = {
       'plugin:vue/vue3-recommended',
       'eslint:recommended'
     ],
-    rules: {},
+    rules: {
+      'vue/multi-word-component-names': 'off',
+    },
     parser: 'vue-eslint-parser',
     parserOptions: {
         parser: "@babel/eslint-parser",
